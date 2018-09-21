@@ -1,7 +1,7 @@
 
-# Start energy-miner v2 hash monitor on reboot
- @reboot root /home/iikster/nrgMon.sh
 
+# Start energy-miner v2 hash monitor on reboot
+ @reboot root /path/to/script/nrgMon.sh
 
 # Energi Solo
- @reboot root /home/iikster/startminingnrg.sh
+ @reboot root /path/to/script/startminingnrg.sh
