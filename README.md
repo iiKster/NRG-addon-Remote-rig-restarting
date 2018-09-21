@@ -66,7 +66,7 @@ Restart the rig for things to happen.  You can check if the miner is running by 
 ```sudo tmux attach ```
 
 Exit tmux window by hitting
-``` crtl+b d ``
+``` crtl+b d ```
 
 To check if the monitoring script is running enter in a terminal:
 
